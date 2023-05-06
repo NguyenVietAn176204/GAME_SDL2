@@ -24,11 +24,28 @@ Hướng dẫn cài SDL_Mixer: https://lazyfoo.net/tutorials/SDL/21_sound_effect
 
 Hướng dẫn cài SDL_TTF: https://lazyfoo.net/tutorials/SDL/16_true_type_fonts/index.php
 
-Cài đặt và chơi game:
+### Cài đặt và chơi game:
 
 Sau khi đã hoàn tất cài đặt thư viện SDL2,bạn hãy cài đặt đường dẫn include và lib phù hợp với thiết bị của bạn.
 
 Tải game về bằng cách sử dụng lệnh sau:
+
+git clone https://github.com/NguyenVietAn176204/GAME_SDL2.git\
+
+Cuối cùng mở project game và vào thư mục Debug click vào file Gamee.exe để bắt đầu trải nghiệm trò chơi
+
+## Mô tả Trò Chơi
+
+# Cốt Truyện
+
+ Hunter bị lạc vào 1 mê cung quái vật.Sau quá trình dài sinh tồn Hunter đã rèn luyện và trang bị cho mình nhiều kì năng chiến đấu.Dể trở lại với cuộc sống,Hunter bắt buộc phải chiến đấu và vượt qua được mê cung quái vật.Chúng ta hãy cùng dõi theo hành trình đầy gian nan thử thách này nhé.
+
+## Luật chơi
+
+Hunter: sử dụng súng
+
+
+
 
 
 
