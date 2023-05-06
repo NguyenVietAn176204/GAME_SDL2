@@ -1,3 +1,3 @@
 # Hunter and Monster
-Gamee Hunter
-Tựa Game Bom tấn
+*Gamee Hunter
+*Tựa Game Bom tấn
